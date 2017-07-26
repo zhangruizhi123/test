@@ -1,13 +1,14 @@
 
 /**
  * 
- * @author ÕÅÈğÖ¾
+ * @author å¼ ç‘å¿—
  *
- * ´´½¨Ê±¼ä:2017Äê7ÔÂ26ÈÕ ÏÂÎç4:45:48
+ * åˆ›å»ºæ—¶é—´:2017å¹´7æœˆ26æ—¥ ä¸‹åˆ4:45:48
  *
  */
 public class Test {
 	public static void main(String[] args) {
 		System.out.println("hello github!");
+		System.out.println("ä¿®æ”¹!");
 	}
 }
